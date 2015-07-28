@@ -188,6 +188,18 @@ button.hero-analytics{
 
 }
 
+.imgHolderPrice object {
+  opacity: .75;
+  max-height: 150px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   vertical-align: middle;
+}
+.imgHolderPrice object:hover {
+  opacity: 1;
+  }
+
 .imgHolderPrice img {
   opacity: .75;
   max-height: 150px;
